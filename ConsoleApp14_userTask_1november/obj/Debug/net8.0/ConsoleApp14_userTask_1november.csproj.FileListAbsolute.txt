@@ -1,0 +1,17 @@
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\bin\Debug\net8.0\ConsoleApp14_userTask_1november.exe
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\bin\Debug\net8.0\ConsoleApp14_userTask_1november.deps.json
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\bin\Debug\net8.0\ConsoleApp14_userTask_1november.runtimeconfig.json
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\bin\Debug\net8.0\ConsoleApp14_userTask_1november.dll
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\bin\Debug\net8.0\ConsoleApp14_userTask_1november.pdb
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\obj\Debug\net8.0\ConsoleApp14_userTask_1november.csproj.AssemblyReference.cache
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\obj\Debug\net8.0\ConsoleApp14_userTask_1november.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\obj\Debug\net8.0\ConsoleApp14_userTask_1november.AssemblyInfoInputs.cache
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\obj\Debug\net8.0\ConsoleApp14_userTask_1november.AssemblyInfo.cs
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\obj\Debug\net8.0\ConsoleApp14_userTask_1november.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\obj\Debug\net8.0\ConsoleA.224BC734.Up2Date
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\obj\Debug\net8.0\ConsoleApp14_userTask_1november.dll
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\obj\Debug\net8.0\refint\ConsoleApp14_userTask_1november.dll
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\obj\Debug\net8.0\ConsoleApp14_userTask_1november.pdb
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\obj\Debug\net8.0\ConsoleApp14_userTask_1november.genruntimeconfig.cache
+C:\Users\ClassTime\source\repos\ConsoleApp14_userTask_1november\ConsoleApp14_userTask_1november\obj\Debug\net8.0\ref\ConsoleApp14_userTask_1november.dll
